@@ -4,10 +4,6 @@ import {
 } from 'react-navigation';
 import Search from './components/Search';
 import Results from './components/Results';
-import {
-    YellowBox
-} from 'react-native'
-YellowBox.ignoreWarnings(['Warning: isMounted(...) is deprecated'])
 
 const Navigator = createStackNavigator({
     Home: {
