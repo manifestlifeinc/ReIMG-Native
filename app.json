@@ -10,7 +10,8 @@
       "bundleIdentifier": "com.yourcompany.yourappname"
     },
     "android": {
-      "package": "com.yourcompany.yourappname"
-    }
+      "package": "io.expo.reimg"
+    },
+    "githubUrl": "https://github.com/manifestlifeinc/ReIMG-Native.git"
   }
 }
