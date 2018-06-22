@@ -1,5 +1,16 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0"
+    "name": "reimg",
+    "icon": "./ReIMG-Native/res/reddit.png",
+    "version": "1.0.0",
+    "slug": "reimg",
+    "sdkVersion": "XX.0.0",
+    "privacy": "public",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname"
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    }
   }
 }
